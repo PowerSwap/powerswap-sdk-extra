@@ -1,4 +1,4 @@
-import { ChainId, Currency, HARMONY } from '@venomswap/sdk'
+import { ChainId, Currency, HARMONY } from '@powerswap/sdk'
 import { Blockchain, BLOCKCHAIN_SETTINGS } from '../src'
 
 describe('BlockchainSettings', () => {
