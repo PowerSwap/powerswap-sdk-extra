@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/VenomProtocol/powerswap-sdk-extra.git",
+  "repository": "https://github.com/PowerSwap/powerswap-sdk-extra.git",
   "keywords": [
     "ethereum",
     "bsc",
@@ -28,9 +28,9 @@
     "@ethersproject/contracts": "^5.3.0",
     "@ethersproject/providers": "^5.3.0",
     "@ethersproject/solidity": "^5.3.0",
-    "@types/lodash.random": "^3.2.6",
     "@powerswap/default-token-list": "^2.0.0",
-    "@powerswap/sdk": "^2.0.1",
+    "@powerswap/sdk": "^2.0.2",
+    "@types/lodash.random": "^3.2.6",
     "lodash.random": "^3.2.0"
   },
   "devDependencies": {
